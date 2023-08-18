@@ -1,0 +1,7 @@
+# Ignore the Python virtual environment created for this project
+
+BrainTumor/
+
+# Ignore the weighted model that was created from training the AI
+
+model_weights.h5
