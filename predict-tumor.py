@@ -1,3 +1,6 @@
+# Predict Tumor Python Script
+# Developed by Pavon Dunbar, August 15, 2023
+
 import tensorflow as tf
 import numpy as np
 from PIL import Image
