@@ -74,7 +74,7 @@ pip install tensorflow numpy Pillow scikit-learn
 
 Now the fun part begins.
 
-Run the following command below to begin training the AI model using the "training" dataset provided in this repository.
+Run the following command below to begin training the AI model using the "training" dataset provided in this repository (special thanks to [Kaggle](https://www.kaggle.com) for providing the dataset used for this training):
 
 ```
 python3 braintumor.py
