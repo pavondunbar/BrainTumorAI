@@ -103,10 +103,7 @@ The AI will attempt to predict the type of tumor using another random scan, the 
 If you want to submit another scan, you will have to do two simple things.
 
 1. Save the random scan in the root directory of the repository.
-2. Modify the **predict-tumor.py** file by adding the name of your file as described in the image below:
-
-<img width="858" alt="Screenshot 2023-08-20 at 2 49 11 PM" src="https://github.com/pavondunbar/BrainTumorAI/assets/36899956/3dc9164a-cd08-420b-a678-ec701ecdcca3">
-
+2. Modify line 40 in the **predict-tumor.py** file by replacing p-tumor.jpeg with the name of your file. 
 3. Run the **predict-tumor.py** file to do a scan of your new random image.
 
 # Conclusion
